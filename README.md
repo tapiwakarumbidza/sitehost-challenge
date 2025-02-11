@@ -92,4 +92,4 @@ Tapiwa
 
 - The API key is included for demonstration purposes
 - SSL certificate warnings are expected when accessing the IP directly
-- DNS modification requires administrative privileges
+- DNS modification requires administrative privileges"Minor update to trigger PR" 
